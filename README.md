@@ -31,6 +31,7 @@ Solving problems daily and uploading solutions consistently.
 | ------- |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
 |  |
@@ -60,6 +61,7 @@ Solving problems daily and uploading solutions consistently.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
 | ------- |
@@ -68,4 +70,5 @@ Solving problems daily and uploading solutions consistently.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
