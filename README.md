@@ -23,3 +23,19 @@ This repository contains my daily LeetCode problem-solving practice in Java.
 
 ## Progress
 Solving problems daily and uploading solutions consistently.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+<!---LeetCode Topics End-->
