@@ -33,6 +33,7 @@ Solving problems daily and uploading solutions consistently.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
@@ -59,6 +60,7 @@ Solving problems daily and uploading solutions consistently.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +75,16 @@ Solving problems daily and uploading solutions consistently.
 | ------- |
 | [0061-rotate-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
+## Hash Table
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
