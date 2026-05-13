@@ -32,6 +32,7 @@ Solving problems daily and uploading solutions consistently.
 | [0001-two-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -85,6 +86,7 @@ Solving problems daily and uploading solutions consistently.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0001-two-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
 |  |
@@ -103,4 +105,8 @@ Solving problems daily and uploading solutions consistently.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
