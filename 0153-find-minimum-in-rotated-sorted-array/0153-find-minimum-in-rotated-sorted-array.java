@@ -1,16 +1,19 @@
 class Solution {
     public int findMin(int[] nums) {
-        int n = nums.length;
-        int min=nums[0];
-
-        for(int i =0;i<n;i++)
+        int n = nums.length-1;
+        int last=nums[n];
+        int left=0 , right =n;
+        while(left<right)
         {
-            if(min>nums[i]){
-                min=nums[i];
-            }
-            //System.out.println("array was rotated" + i+1 + "times");
+            int mid = (left+right)>>1;
+            if(nums[mid]>last)
+                left=mid+1;
+            else
+                right=mid;
         }
-        
-        return min;
+        return nums[left];
     }
+
 }
+
+//complexity: O(log n)
