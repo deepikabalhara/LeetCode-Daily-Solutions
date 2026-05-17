@@ -34,6 +34,7 @@ Solving problems daily and uploading solutions consistently.
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
@@ -99,6 +100,7 @@ Solving problems daily and uploading solutions consistently.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -131,4 +133,8 @@ Solving problems daily and uploading solutions consistently.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
