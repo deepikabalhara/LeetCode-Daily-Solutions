@@ -30,6 +30,7 @@ Solving problems daily and uploading solutions consistently.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -119,10 +120,15 @@ Solving problems daily and uploading solutions consistently.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
