@@ -1,7 +1,7 @@
-## 👩‍💻 About
-Hi, I'm Deepika! I solve LeetCode problems daily to strengthen my DSA skills and prepare for placements.
-- 🔗 [LeetCode Profile](https://leetcode.com/u/DeepikaBalhara/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/deepika-balhara/)
+![Language](https://img.shields.io/badge/Language-Java-orange)
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Problems](https://img.shields.io/badge/Problems%20Solved-24+-brightgreen)
+![Status](https://img.shields.io/badge/Daily%20Practice-Active-success)
 
 # LeetCode Daily Solutions
 
@@ -29,10 +29,10 @@ This repository contains my daily LeetCode problem-solving practice in Java.
 ## 📊 Progress
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 8     |
-| 🟡 Medium  | 12    |
-| 🔴 Hard    | 3     |
-| **Total**  | **23**|
+| 🟢 Easy    | 5     |
+| 🟡 Medium  | 15    |
+| 🔴 Hard    | 4     |
+| **Total**  | **24**|
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -168,3 +168,10 @@ This repository contains my daily LeetCode problem-solving practice in Java.
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
+
+
+
+## 👩‍💻 About
+Hi, I'm Deepika! I solve LeetCode problems daily to strengthen my DSA skills and prepare for placements.
+- 🔗 [LeetCode Profile](https://leetcode.com/u/DeepikaBalhara/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepika-balhara/)
