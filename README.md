@@ -25,6 +25,10 @@ This repository contains my daily LeetCode problem-solving practice in Java.
 ## Language Used
 - Java
 - C
+ 
+## 📁 Structure
+Each folder is named by LeetCode problem number and title.
+Inside each folder you'll find the solution file in Java or C.
 
 ## 📊 Progress
 | Difficulty | Count |
