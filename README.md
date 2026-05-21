@@ -3,11 +3,11 @@
 ![Problems](https://img.shields.io/badge/Problems%20Solved-24+-brightgreen)
 ![Status](https://img.shields.io/badge/Daily%20Practice-Active-success)
 
-# LeetCode Daily Solutions
+# 🧩 LeetCode Daily Solutions
 
 This repository contains my daily LeetCode problem-solving practice in Java.
 
-## Topics Covered
+## 📚 Topics Covered
 - Arrays
 - Strings
 - Linked List
@@ -17,12 +17,12 @@ This repository contains my daily LeetCode problem-solving practice in Java.
 - Graphs
 - Dynamic Programming
 
-## Goal
+## 🎯 Goal
 - Improve problem-solving skills
 - Strengthen Data Structures and Algorithms
 - Prepare for coding interviews and placements
 
-## Language Used
+## 🛠️ Language Used
 - Java
 - C
  
@@ -39,7 +39,7 @@ Inside each folder you'll find the solution file in Java or C.
 | **Total**  | **24**|
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# 🗂️ LeetCode Topics
 ## Array
 |  |
 | ------- |
